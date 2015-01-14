@@ -1,3 +1,12 @@
+Todo页，
+
+![img](https://raw.githubusercontent.com/lzwjava/plan/master/android-todo-360.png)
+
+应用内搜索页，
+
+![img](https://raw.githubusercontent.com/lzwjava/plan/master/todo360.png)
+
+
 ## 介绍
 
 一个创建、编辑、删除和搜索 Todo 的示例，演示了以下功能：
@@ -7,6 +16,15 @@
 * 统计功能
 * 统计的自定义事件功能
 * 应用内搜索
+
+## 具体介绍 
+
+* 如何使用 `AVObject` 保存数据到服务器上
+* 如何扩展 `AVObject` 类来更为方便地使用
+* 如何使用 `AVQuery` 查询服务器数据
+* 如何为应用加入统计功能，统计相应的事件，从而分析用户喜好
+* 如何给应用加入全局搜索功能，便捷地找到所需要的信息
+
 
 ## 如何运行
 
