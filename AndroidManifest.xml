@@ -26,7 +26,6 @@
         <activity android:name="com.avos.demo.CreateTodo">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
-
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <!-- 处理以"com.avoscloud.todo://avoscloud/classes/Todo/"开头的 URI -->
